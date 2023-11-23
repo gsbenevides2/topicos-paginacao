@@ -1,0 +1,1 @@
+SELECT * FROM musica ORDER BY inseridoem DESC;

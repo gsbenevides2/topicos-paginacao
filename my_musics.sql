@@ -1,5 +1,4 @@
 INSERT INTO public.musica (id,artista,imageurl,inseridoem,nome) VALUES
-	 ('ab0164e8-7c3c-41a3-bdb7-f3b2e553a76b','Avicii','https://lh3.googleusercontent.com/gNvQI_me1i5v3oXEaJCPYpjhYj5yQSObQNnKsBYTZhWqax62D6AslMc1z7Euvl2r6wnvuqWeLzFGUv5R=w60-h60-l90-rj','2023-11-19 23:08:06.888','Sunset Jesus'),
 	 ('ab877650-ff21-47ec-bf7d-a8f4dbc7550f','Axwell /\ Ingrosso','https://lh3.googleusercontent.com/o6a9-03zCQPF42BZmqtX-rpJhuNuOooWz6uBArFZjsyYAtf3s8kajfvA98G0WM1Y-ByP8rEQmMefIWNS=w60-h60-l90-rj','2023-11-19 23:08:07.098','More Than You Know'),
 	 ('9915d071-0109-4407-bd2d-af2deaa1755e','Jain','https://lh3.googleusercontent.com/--JNow1CMUoq9z8zOxYzOWJcHwwAsXI-Qb2BrqDwFEfayXaalhh9BjnHGr59rwsPyICkMpw4Smct6w4=w60-h60-l90-rj','2023-11-19 23:08:07.176','Come'),
 	 ('9c8c8db7-0655-4dc9-8399-f69a914038fe','Reol','https://lh3.googleusercontent.com/s7iMZMWR3QiOj4Mef2u900xTLQJBIN9PiCD9LtmDjDvzWpOYGi0vFQLtqbtllTs3jsREFNWXKdMbp9M=w60-h60-l90-rj','2023-11-19 23:08:07.249','No Title'),

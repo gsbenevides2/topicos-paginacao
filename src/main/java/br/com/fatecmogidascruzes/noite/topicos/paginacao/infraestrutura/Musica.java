@@ -6,6 +6,7 @@ import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
+import javax.persistence.Column;
 
 @Entity
 public class Musica {
@@ -16,6 +17,7 @@ public class Musica {
     private String nome;
     private String artista;
     private String imageUrl;
+    @Column(columnDefinition = "TIMESTAMP DEFAULT CURRENT_TIMESTAMP")
     private Date inseridoEm;
     
     public Musica(String nome, String artista, String imageUrl) {

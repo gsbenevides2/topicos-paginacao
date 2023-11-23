@@ -1,0 +1,2 @@
+INSERT INTO public.musica (id,artista,imageurl,nome) VALUES
+	 ('ab0164e8-7c3c-41a3-bdb7-f3b2e553a76b','Avicii','https://lh3.googleusercontent.com/gNvQI_me1i5v3oXEaJCPYpjhYj5yQSObQNnKsBYTZhWqax62D6AslMc1z7Euvl2r6wnvuqWeLzFGUv5R=w60-h60-l90-rj','Sunset Jesus')
